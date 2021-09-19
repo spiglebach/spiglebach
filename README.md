@@ -1,4 +1,7 @@
-### Hi there! 👋
+<h1>Welcome 👋 <img align="right" src="https://gpvc.arturio.dev/spiglebach" alt="Profile views"></h1> 
+<section><img src="icons/java.jpg" alt="Java" width="60" height="60" /><img src="icons/spring.svg" alt="Spring Framework" width="60" height="60" /><img src="icons/git.png" alt="git" width="60" height="60" /><img src="icons/unity.svg" alt="Unity Game Engine" width="60" height="60" /></section>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiglebach&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=spiglebach&theme=gruvbox)](https://git.io/streak-stats)
