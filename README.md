@@ -1,7 +1,10 @@
 ### Hi there! 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spiglebach&count_private=true&show_icons=true&theme=gruvbox&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=spiglebach&theme=gruvbox)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spiglebach&layout=compact&hide=shaderlab,hlsl&langs_count=6&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **spiglebach/spiglebach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
