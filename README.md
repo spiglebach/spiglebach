@@ -5,8 +5,8 @@
   <a href= "https://spring.io/"><img src="icons/spring.svg" alt="Spring Framework" width="60" height="60" /></a>
   <a href= "https://git-scm.com/"><img src="icons/git.png" alt="git" width="60" height="60" /></a>
   <a href= "https://unity.com/"><img src="icons/unity.svg" alt="Unity Game Engine" width="60" height="60" /></a>
-  <!--a href= ""><img src="" alt="JetBrains" width="60" height="60" /></a-->
-  <!--a href= ""><img src="" alt="Blender" width="60" height="60" /></a-->
+  <a href= "https://www.jetbrains.com/"><img src="icons/jetbrains.png" alt="JetBrains" width="60" height="60" /></a>
+  <a href= "https://www.blender.org/"><img src="icons/blender.png" alt="Blender" width="60" height="60" /></a>
   <!--a href= ""><img src="" alt="Postman" width="60" height="60" /></a-->
 </section>
 <!--h2>🔥Always Learning</h2>
