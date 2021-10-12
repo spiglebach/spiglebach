@@ -1,20 +1,20 @@
 <h1>Welcome 👋 <img align="right" src="https://gpvc.arturio.dev/spiglebach" alt="Profile views"></h1> 
 <h2>👨‍💻⚒Technologies, tools & interests</h2>
 <section>
-  <a href= "https://go.java/"><img src="icons/java.jpg" alt="Java" width="60" height="60" /></a>
-  <a href= "https://spring.io/"><img src="icons/spring.svg" alt="Spring Framework" width="60" height="60" /></a>
-  <a href= "https://git-scm.com/"><img src="icons/git.png" alt="git" width="60" height="60" /></a>
-  <a href= "https://unity.com/"><img src="icons/unity.svg" alt="Unity Game Engine" width="60" height="60" /></a>
-  <a href= "https://www.jetbrains.com/"><img src="icons/jetbrains.png" alt="JetBrains" width="60" height="60" /></a>
-  <a href= "https://www.blender.org/"><img src="icons/blender.png" alt="Blender" width="60" height="60" /></a>
+  <a href="https://go.java/"><img src="icons/java.jpg" alt="Java" width="60" height="60" /></a>
+  <a href="https://spring.io/"><img src="icons/spring.svg" alt="Spring Framework" width="60" height="60" /></a>
+  <a href="https://git-scm.com/"><img src="icons/git.png" alt="git" width="60" height="60" /></a>
+  <a href="https://unity.com/"><img src="icons/unity.svg" alt="Unity Game Engine" width="60" height="60" /></a>
+  <a href="https://www.jetbrains.com/"><img src="icons/jetbrains.png" alt="JetBrains" width="60" height="60" /></a>
+  <a href="https://www.blender.org/"><img src="icons/blender.png" alt="Blender" width="60" height="60" /></a>
   <!--a href= ""><img src="" alt="Postman" width="60" height="60" /></a-->
 </section>
-<!--h2>🔥Always Learning</h2>
+<h2>🔥Always Learning</h2>
 <section>
-  <a href= ""><img src="" alt="Udemy" width="60" height="60" /></a>
-  <a href= ""><img src="" alt="GameDev.tv" width="60" height="60" /></a>
-  <a href= ""><img src="" alt="Zenva Academy" width="60" height="60" /></a>
-</section-->
+  <a href="https://www.udemy.com/"><img src="icons/udemy.png" alt="Udemy" width="60" height="60" /></a>
+  <a href="https://www.gamedev.tv/"><img src="icons/gdtv.jpg" alt="GameDev.tv" width="60" height="60" /></a>
+  <a href="https://academy.zenva.com/"><img src="icons/zenva.png" alt="Zenva Academy" width="60" height="60" /></a>
+</section>
 <!--h2>👥Other profiles</h2>
 <section>
   <a href= "https://spiglebach.itch.io/"><img src="" alt="itch.io" width="60" height="60" /></a>
