@@ -1,4 +1,4 @@
-<h1>Welcome 👋 <img align="right" src="https://gpvc.arturio.dev/spiglebach" alt="Profile views"></h1> 
+<h1>Welcome 👋</h1> 
 <h2>👨‍💻⚒Technologies, tools & interests</h2>
 <section>
   <a href="https://go.java/"><img src="icons/java.jpg" alt="Java" width="60" height="60" /></a>
